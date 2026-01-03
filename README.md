@@ -1,4 +1,4 @@
-# ShipGame
+# ShipGame - Patrick Toarta Rogojan
 This is a 2D game developed using Processing as part of a Cyber Security Activity.
 Download Game:
 https://drive.google.com/file/d/1pPWVcekv9BBLLdnjWGbVrcv4Sglihc58/view?usp=sharing
